@@ -4,11 +4,16 @@
 
 ### [🚀 View the Project on GitHub](https://github.com/ParthGhadole/XGBoost_Delhi_ML_FA2)
 
-This project focuses on comparing multiple regression models to predict **housing prices in Delhi, India**. The dataset includes features such as location, area, number of bedrooms (BHK), and furnishing status, which influence real estate prices. Various preprocessing techniques including **standard scaling**, **log transformation**, and **hyperparameter tuning** are applied to improve model performance. The objective is to evaluate and compare different regression algorithms on the same dataset to identify the best-performing model for Delhi’s housing market.
+This project focuses on comparing multiple regression models to predict **housing prices in Delhi, India**. The dataset includes features such as location, area, number of bedrooms (BHK), and furnishing status, which influence real estate prices. Various preprocessing techniques including **standard scaling**, **log transformation**, and **hyperparameter tuning** are applied to improve model performance. The objective is to evaluate and compare different regression algorithms on the same dataset to identify the best-performing model for Delhi's housing market.
+
+## 👥 Contributors
+
+- Rishita Awasthi
+- Jiya Bargir
+- Visesh Chauhan
+- Parth Ghadole
 
 ---
-
-
 
 ## 📁 Dataset
 
